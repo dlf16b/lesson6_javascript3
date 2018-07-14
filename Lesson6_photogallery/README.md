@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+13 July 2018
 
 ### Student Name:  
-(First and Last Name)
+Diego Faverio
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson introduces the HTML DOM and how JavaScript is used to access and change the elements of an HTML document.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
